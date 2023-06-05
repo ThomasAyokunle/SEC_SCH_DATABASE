@@ -2,18 +2,19 @@
 
 Welcome to the Secondary School SQL sample Database! This readme will provide you with a basic understanding of the database and guide you through its setup and usage.
 
-##Introduction
+Introduction
+
 The SEC_SCH sample database has three schemas 'REC', 'ACA' and 'WORKS, and these schemas have twenty tables
 This Secondary School SQL Database is designed to store and manage various types of information related to a secondary school. It enables efficient storage, organization, and retrieval of data pertaining to students, teachers, subjects, and other school-related entities.
 
-##Files included
+Files included
 
 SEC_SCH SAMPLE DATABASE- CREATE OBJECTS.ipynb: This notebook consisting of the SQL script to create the database, create the schemas and create the table
 SEC_SCH SAMPLE DATABASE- LOAD DATA.ipynb: This notebook consist of the SQL script to insert values into the tables created
 SEC_SCH SAMPLE DATABASE- SQL QUERIES.ipynb:There are some sample SQL queries in this notebook to get you started with the Secondary School SQL Database. Feel free to explore and customize queries based on your specific requirements.
 
 
-##Features
+Features
 
 The SQL database offers the following key features:
 
@@ -26,7 +27,7 @@ Staff Information: Keep track of staff profiles, including their names, job type
 Subject Management: Manage information about the subjects offered at the school, including subject names, descriptions, prerequisites, and schedules.
 
 
-##Setup Instructions
+Setup Instructions
 
 To set up the Secondary School SQL Database, follow these simple steps:
 
@@ -43,14 +44,14 @@ To set up the Secondary School SQL Database, follow these simple steps:
 6. Access and Usage: You can now access the Secondary School SQL Database using your preferred SQL client or programming language. Connect to the database using the appropriate credentials and start querying, updating, or managing the data as required.
 
 
-##Additional Resources
+Additional Resources
 
 For more information and guidance on SQL and database management, consider exploring the following resources:
 Online tutorials and documentation specific to your chosen DBMS.
 Books and online courses on SQL and relational database management.
 Online communities and forums where you can seek help and learn from others' experiences.
 
-##Contact Information
+Contact Information
 For any questions, concerns, or feedback regarding this project, please contact Thomas Ayokunle at thomasayokunle@gmail.com
 
 Thank you for your interest in this database project.
